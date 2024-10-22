@@ -2,7 +2,7 @@
   "domain": "netgear_switch",
   "name": "Netgear Switch",
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/netgear_switch",
+  "documentation": "https://github.com/ParalaX002/netgeat_switch",
   "requirements": ["lxml", "requests"],
   "ssdp": [],
   "zeroconf": [],
